@@ -1,0 +1,1089 @@
+[
+    {
+        "question": "What Is FunderPro?",
+        "answer": "FunderPro is a prop firm offering traders the chance to manage up to $200,000 in real funds. No time limits or hindering rules!",
+        "question_tokens": [
+            "funderpro"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "prop",
+            "firm",
+            "offering",
+            "traders",
+            "chance",
+            "manage",
+            "200",
+            "000",
+            "real",
+            "funds",
+            "time",
+            "limits",
+            "hindering",
+            "rules"
+        ]
+    },
+    {
+        "question": "Do You Offer a Free Trial of the Challenge?",
+        "answer": "No, FunderPro doesn't offer free trials",
+        "question_tokens": [
+            "offer",
+            "free",
+            "trial",
+            "challenge"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "offer",
+            "free",
+            "trials"
+        ]
+    },
+    {
+        "question": "Why Choose FunderPro?",
+        "answer": "We offer real capital and no time limits making our funded process one of the best on the market.",
+        "question_tokens": [
+            "choose",
+            "funderpro"
+        ],
+        "answer_tokens": [
+            "offer",
+            "real",
+            "capital",
+            "time",
+            "limits",
+            "making",
+            "funded",
+            "process",
+            "one",
+            "best",
+            "market"
+        ]
+    },
+    {
+        "question": "Who Can Join FunderPro?",
+        "answer": "We are looking for traders of all skill levels from all around the world. Must be 18 years or over.",
+        "question_tokens": [
+            "join",
+            "funderpro"
+        ],
+        "answer_tokens": [
+            "looking",
+            "traders",
+            "skill",
+            "levels",
+            "around",
+            "world",
+            "must",
+            "18",
+            "years"
+        ]
+    },
+    {
+        "question": "How Do I Get Started?",
+        "answer": "Simply fill out our sign up form. Once you have completed the signup you will have instant access to your account.",
+        "question_tokens": [
+            "get",
+            "started"
+        ],
+        "answer_tokens": [
+            "simply",
+            "fill",
+            "sign",
+            "form",
+            "completed",
+            "signup",
+            "instant",
+            "access",
+            "account"
+        ]
+    },
+    {
+        "question": "How Do I Purchase a Challenge?",
+        "answer": "Now that you have full access to your account simply click \"buy new challenge\" or \"new challenge\" button to get started.",
+        "question_tokens": [
+            "purchase",
+            "challenge"
+        ],
+        "answer_tokens": [
+            "full",
+            "access",
+            "account",
+            "simply",
+            "click",
+            "buy",
+            "new",
+            "challenge",
+            "new",
+            "challenge",
+            "button",
+            "get",
+            "started"
+        ]
+    },
+    {
+        "question": "How Do I Use The Dashboard?",
+        "answer": "Our all-in-one superior technology solution is built with everything you need to be successful.",
+        "question_tokens": [
+            "use",
+            "dashboard"
+        ],
+        "answer_tokens": [
+            "one",
+            "superior",
+            "technology",
+            "solution",
+            "built",
+            "everything",
+            "need",
+            "successful"
+        ]
+    },
+    {
+        "question": "Do You Have an Affiliate Scheme?",
+        "answer": "Join us in scouting talented traders and earn commission every time clients purchase challenges.",
+        "question_tokens": [
+            "affiliate",
+            "scheme"
+        ],
+        "answer_tokens": [
+            "join",
+            "us",
+            "scouting",
+            "talented",
+            "traders",
+            "earn",
+            "commission",
+            "every",
+            "time",
+            "clients",
+            "purchase",
+            "challenges"
+        ]
+    },
+    {
+        "question": "How Quick Can I Start?",
+        "answer": "After sign up you will get instant access to your dashboard were you can buy your first challenge.",
+        "question_tokens": [
+            "quick",
+            "start"
+        ],
+        "answer_tokens": [
+            "sign",
+            "get",
+            "instant",
+            "access",
+            "dashboard",
+            "buy",
+            "first",
+            "challenge"
+        ]
+    },
+    {
+        "question": "What Features & Platforms Can I Trade With?",
+        "answer": "We currently support Tradelocker across all devices and provide all the analytical & trading tools for your success.",
+        "question_tokens": [
+            "features",
+            "platforms",
+            "trade"
+        ],
+        "answer_tokens": [
+            "currently",
+            "support",
+            "tradelocker",
+            "across",
+            "devices",
+            "provide",
+            "analytical",
+            "trading",
+            "tools",
+            "success"
+        ]
+    },
+    {
+        "question": "How Do I Become a Funded Trader?",
+        "answer": "We've simplified the process. To become a Funded Trader, you will have to pass a 2-step evaluation process.",
+        "question_tokens": [
+            "become",
+            "funded",
+            "trader"
+        ],
+        "answer_tokens": [
+            "simplified",
+            "process",
+            "become",
+            "funded",
+            "trader",
+            "pass",
+            "2",
+            "step",
+            "evaluation",
+            "process"
+        ]
+    },
+    {
+        "question": "How Does the Daily Drawdown Work?",
+        "answer": "This means that a trader’s equity should never drop below 5% (4% for Fast Track) from their starting balance. Resets at 5 pm EST every day.",
+        "question_tokens": [
+            "daily",
+            "drawdown",
+            "work"
+        ],
+        "answer_tokens": [
+            "means",
+            "trader",
+            "equity",
+            "never",
+            "drop",
+            "5",
+            "4",
+            "fast",
+            "track",
+            "starting",
+            "balance",
+            "resets",
+            "5",
+            "pm",
+            "est",
+            "every",
+            "day"
+        ]
+    },
+    {
+        "question": "How Does the Overall Drawdown Work?",
+        "answer": "The overall drawdown means your challenge account must not drop below 10% (7% for Fast Track) to your initial balance.",
+        "question_tokens": [
+            "overall",
+            "drawdown",
+            "work"
+        ],
+        "answer_tokens": [
+            "overall",
+            "drawdown",
+            "means",
+            "challenge",
+            "account",
+            "must",
+            "drop",
+            "10",
+            "7",
+            "fast",
+            "track",
+            "initial",
+            "balance"
+        ]
+    },
+    {
+        "question": "What Are the Challenge Profit Targets?",
+        "answer": "To advance through the phases of the challenge you must achieve profit targets of 10% and 8%.",
+        "question_tokens": [
+            "challenge",
+            "profit",
+            "targets"
+        ],
+        "answer_tokens": [
+            "advance",
+            "phases",
+            "challenge",
+            "must",
+            "achieve",
+            "profit",
+            "targets",
+            "10",
+            "8"
+        ]
+    },
+    {
+        "question": "I Have Passed Phase 2! What Next?",
+        "answer": "We will assess your account based on certain criteria and if all requirements are fulfilled your will receive your Funded Account.",
+        "question_tokens": [
+            "passed",
+            "phase",
+            "2",
+            "next"
+        ],
+        "answer_tokens": [
+            "assess",
+            "account",
+            "based",
+            "certain",
+            "criteria",
+            "requirements",
+            "fulfilled",
+            "receive",
+            "funded",
+            "account"
+        ]
+    },
+    {
+        "question": "Do I Trade Live or Demo?",
+        "answer": "During phases 1 and 2 of your Funded Challenge you will trade demo. Once funded you will trade on a live account.",
+        "question_tokens": [
+            "trade",
+            "live",
+            "demo"
+        ],
+        "answer_tokens": [
+            "phases",
+            "1",
+            "2",
+            "funded",
+            "challenge",
+            "trade",
+            "demo",
+            "funded",
+            "trade",
+            "live",
+            "account"
+        ]
+    },
+    {
+        "question": "What is the Consistency Rule?",
+        "answer": "The consistency rule measures your ability to make consistent profits while managing risk and only applies to the Verification phase.",
+        "question_tokens": [
+            "consistency",
+            "rule"
+        ],
+        "answer_tokens": [
+            "consistency",
+            "rule",
+            "measures",
+            "ability",
+            "make",
+            "consistent",
+            "profits",
+            "managing",
+            "risk",
+            "applies",
+            "verification",
+            "phase"
+        ]
+    },
+    {
+        "question": "Can I Reset My Challenge?",
+        "answer": "You can purchase an account reset for a discount at any time during your Phase 1 (Evaluation) of your Challenge.",
+        "question_tokens": [
+            "reset",
+            "challenge"
+        ],
+        "answer_tokens": [
+            "purchase",
+            "account",
+            "reset",
+            "discount",
+            "time",
+            "phase",
+            "1",
+            "evaluation",
+            "challenge"
+        ]
+    },
+    {
+        "question": "How To Calculate Profits from a Trade",
+        "answer": "You can calculate your profits using the formula shown in this article.",
+        "question_tokens": [
+            "calculate",
+            "profits",
+            "trade"
+        ],
+        "answer_tokens": [
+            "calculate",
+            "profits",
+            "using",
+            "formula",
+            "shown",
+            "article"
+        ]
+    },
+    {
+        "question": "Are Instant Funding Accounts Available?",
+        "answer": "FunderPro does not offer instant funding accoutns at the moment",
+        "question_tokens": [
+            "instant",
+            "funding",
+            "accounts",
+            "available"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "offer",
+            "instant",
+            "funding",
+            "accoutns",
+            "moment"
+        ]
+    },
+    {
+        "question": "Do I Trade With Real Funds?",
+        "answer": "We are the only prop firm on the market that provides Funded Traders with a Live Account with real funds.",
+        "question_tokens": [
+            "trade",
+            "real",
+            "funds"
+        ],
+        "answer_tokens": [
+            "prop",
+            "firm",
+            "market",
+            "provides",
+            "funded",
+            "traders",
+            "live",
+            "account",
+            "real",
+            "funds"
+        ]
+    },
+    {
+        "question": "How Does the Funded Account Work?",
+        "answer": "As a Funded Trader you are required to meet Daily & Overall drawdown requirements to stay funded.",
+        "question_tokens": [
+            "funded",
+            "account",
+            "work"
+        ],
+        "answer_tokens": [
+            "funded",
+            "trader",
+            "required",
+            "meet",
+            "daily",
+            "overall",
+            "drawdown",
+            "requirements",
+            "stay",
+            "funded"
+        ]
+    },
+    {
+        "question": "How Can I Withdraw Profits?",
+        "answer": "Your first payout will be available as soon as you are $50 in profit. You can request uncapped daily payouts.",
+        "question_tokens": [
+            "withdraw",
+            "profits"
+        ],
+        "answer_tokens": [
+            "first",
+            "payout",
+            "available",
+            "soon",
+            "50",
+            "profit",
+            "request",
+            "uncapped",
+            "daily",
+            "payouts"
+        ]
+    },
+    {
+        "question": "Can I Scale My Account?",
+        "answer": "If you meet the conditions of our scaling plan we will increase your account balance by 50% every 3 month up to $5 million.",
+        "question_tokens": [
+            "scale",
+            "account"
+        ],
+        "answer_tokens": [
+            "meet",
+            "conditions",
+            "scaling",
+            "plan",
+            "increase",
+            "account",
+            "balance",
+            "50",
+            "every",
+            "3",
+            "month",
+            "5",
+            "million"
+        ]
+    },
+    {
+        "question": "Am I Required to Have a Verified Account?",
+        "answer": "To receive your Funded Account and earn 80/20 profit split you are required to undergo an Identity Screening.",
+        "question_tokens": [
+            "required",
+            "verified",
+            "account"
+        ],
+        "answer_tokens": [
+            "receive",
+            "funded",
+            "account",
+            "earn",
+            "80",
+            "20",
+            "profit",
+            "split",
+            "required",
+            "undergo",
+            "identity",
+            "screening"
+        ]
+    },
+    {
+        "question": "What's The Maximum Number of Accounts Allowed?",
+        "answer": "There is no limit on purchases but the max. total initial capital on all your accounts cannot exceed $200k.",
+        "question_tokens": [
+            "maximum",
+            "number",
+            "accounts",
+            "allowed"
+        ],
+        "answer_tokens": [
+            "limit",
+            "purchases",
+            "max",
+            "total",
+            "initial",
+            "capital",
+            "accounts",
+            "exceed",
+            "200k"
+        ]
+    },
+    {
+        "question": "What Payment Methods Are Available?",
+        "answer": "Buy your challenge with ease using multiple payment options. We accept Crypto & Credit Card payments.",
+        "question_tokens": [
+            "payment",
+            "methods",
+            "available"
+        ],
+        "answer_tokens": [
+            "buy",
+            "challenge",
+            "ease",
+            "using",
+            "multiple",
+            "payment",
+            "options",
+            "accept",
+            "crypto",
+            "credit",
+            "card",
+            "payments"
+        ]
+    },
+    {
+        "question": "What Instruments are Available?",
+        "answer": "We offer a range of instruments including Forex, Cryptocurrencies, Indices, Commodities, and Energies.",
+        "question_tokens": [
+            "instruments",
+            "available"
+        ],
+        "answer_tokens": [
+            "offer",
+            "range",
+            "instruments",
+            "including",
+            "forex",
+            "cryptocurrencies",
+            "indices",
+            "commodities",
+            "energies"
+        ]
+    },
+    {
+        "question": "Do You Have a Refund Policy?",
+        "answer": "Yes, you can ask for a refund as long as you have not activated your account or placed any trades.",
+        "question_tokens": [
+            "refund",
+            "policy"
+        ],
+        "answer_tokens": [
+            "yes",
+            "ask",
+            "refund",
+            "long",
+            "activated",
+            "account",
+            "placed",
+            "trades"
+        ]
+    },
+    {
+        "question": "How Can I Reset My Funded Account Challenge Trading Password",
+        "answer": "You can reset your challenge trading account password by logging into the Funded Account Dashboard.",
+        "question_tokens": [
+            "reset",
+            "funded",
+            "account",
+            "challenge",
+            "trading",
+            "password"
+        ],
+        "answer_tokens": [
+            "reset",
+            "challenge",
+            "trading",
+            "account",
+            "password",
+            "logging",
+            "funded",
+            "account",
+            "dashboard"
+        ]
+    },
+    {
+        "question": "Can I Change Trading Platforms After Making a Purchase?",
+        "answer": "You can switch platforms only if the challenge was not purchased using specific coupons.",
+        "question_tokens": [
+            "change",
+            "trading",
+            "platforms",
+            "making",
+            "purchase"
+        ],
+        "answer_tokens": [
+            "switch",
+            "platforms",
+            "challenge",
+            "purchased",
+            "using",
+            "specific",
+            "coupons"
+        ]
+    },
+    {
+        "question": "What Trading Platforms are Available on FunderPro?",
+        "answer": "FunderPro offers the innovative TradeLocker trading platform, with integrated TradingView™ charting.",
+        "question_tokens": [
+            "trading",
+            "platforms",
+            "available",
+            "funderpro"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "offers",
+            "innovative",
+            "tradelocker",
+            "trading",
+            "platform",
+            "integrated",
+            "tradingview",
+            "charting"
+        ]
+    },
+    {
+        "question": "What Does FunderPro Offer?",
+        "answer": "This article provides insight as to what services FunderPro offers",
+        "question_tokens": [
+            "funderpro",
+            "offer"
+        ],
+        "answer_tokens": [
+            "article",
+            "provides",
+            "insight",
+            "services",
+            "funderpro",
+            "offers"
+        ]
+    },
+    {
+        "question": "What Are the Commissions and Contract Sizes on FunderPro?",
+        "answer": "A complete list of all available instruments, contract sizes, min step, and commissions",
+        "question_tokens": [
+            "commissions",
+            "contract",
+            "sizes",
+            "funderpro"
+        ],
+        "answer_tokens": [
+            "complete",
+            "list",
+            "available",
+            "instruments",
+            "contract",
+            "sizes",
+            "min",
+            "step",
+            "commissions"
+        ]
+    },
+    {
+        "question": "Does TradeLocker Have a Limit to the Number of Orders I Can Open?",
+        "answer": "Yes, you can have 50 orders open and 50 pending orders at any one time, you cannot place more than 500 orders in one day.",
+        "question_tokens": [
+            "tradelocker",
+            "limit",
+            "number",
+            "orders",
+            "open"
+        ],
+        "answer_tokens": [
+            "yes",
+            "50",
+            "orders",
+            "open",
+            "50",
+            "pending",
+            "orders",
+            "one",
+            "time",
+            "place",
+            "500",
+            "orders",
+            "one",
+            "day"
+        ]
+    },
+    {
+        "question": "How Do Stop Loss and Take Profit Orders Work?",
+        "answer": "SL and TP are pending orders, and as such may be subject to slippage, especially during low liquidity and high volatility periods.",
+        "question_tokens": [
+            "stop",
+            "loss",
+            "take",
+            "profit",
+            "orders",
+            "work"
+        ],
+        "answer_tokens": [
+            "sl",
+            "tp",
+            "pending",
+            "orders",
+            "may",
+            "subject",
+            "slippage",
+            "especially",
+            "low",
+            "liquidity",
+            "high",
+            "volatility",
+            "periods"
+        ]
+    },
+    {
+        "question": "Can I Trade News with FunderPro?",
+        "answer": "There are some restricted news events that you can't trade with FunderPro.",
+        "question_tokens": [
+            "trade",
+            "news",
+            "funderpro"
+        ],
+        "answer_tokens": [
+            "restricted",
+            "news",
+            "events",
+            "trade",
+            "funderpro"
+        ]
+    },
+    {
+        "question": "FunderPro Funded Challenge Types Overview",
+        "answer": "FunderPro offers three challenge types for traders: 2-Phase Day Trading, Swing Trading, and Single Phase, all featuring daily payouts, bot allowance, 80/20 profit split on all account sizes, and scalable accounts up to $5 million.",
+        "question_tokens": [
+            "funderpro",
+            "funded",
+            "challenge",
+            "types",
+            "overview"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "offers",
+            "three",
+            "challenge",
+            "types",
+            "traders",
+            "2",
+            "phase",
+            "day",
+            "trading",
+            "swing",
+            "trading",
+            "single",
+            "phase",
+            "featuring",
+            "daily",
+            "payouts",
+            "bot",
+            "allowance",
+            "80",
+            "20",
+            "profit",
+            "split",
+            "account",
+            "sizes",
+            "scalable",
+            "accounts",
+            "5",
+            "million"
+        ]
+    },
+    {
+        "question": "What Is the FunderPro 2-Phase Swing Trading Challenge?",
+        "answer": "FunderPro's Swing Trading Challenge is designed for traders who want to hold positions over news events and weekends.",
+        "question_tokens": [
+            "funderpro",
+            "2",
+            "phase",
+            "swing",
+            "trading",
+            "challenge"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "swing",
+            "trading",
+            "challenge",
+            "designed",
+            "traders",
+            "want",
+            "hold",
+            "positions",
+            "news",
+            "events",
+            "weekends"
+        ]
+    },
+    {
+        "question": "What Is the FunderPro 2-Phase Day Trading Challenge?",
+        "answer": "FunderPro's Day Trading Challenge is ideal for scalpers and day traders thanks to its high leverage and generous drawdowns.",
+        "question_tokens": [
+            "funderpro",
+            "2",
+            "phase",
+            "day",
+            "trading",
+            "challenge"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "day",
+            "trading",
+            "challenge",
+            "ideal",
+            "scalpers",
+            "day",
+            "traders",
+            "thanks",
+            "high",
+            "leverage",
+            "generous",
+            "drawdowns"
+        ]
+    },
+    {
+        "question": "What Is the FunderPro Single Phase Fast Track Challenge?",
+        "answer": "FunderPro's Single Phase Challenge caters to experienced traders, offering quick funding, 90/10 profit split, news holding, and higher leverage.",
+        "question_tokens": [
+            "funderpro",
+            "single",
+            "phase",
+            "fast",
+            "track",
+            "challenge"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "single",
+            "phase",
+            "challenge",
+            "caters",
+            "experienced",
+            "traders",
+            "offering",
+            "quick",
+            "funding",
+            "90",
+            "10",
+            "profit",
+            "split",
+            "news",
+            "holding",
+            "higher",
+            "leverage"
+        ]
+    },
+    {
+        "question": "How Do I Switch Between Accounts in TradeLocker?",
+        "answer": "In TradeLocker all your accounts are centralized, learn how to make sure you trade on the right one.",
+        "question_tokens": [
+            "switch",
+            "accounts",
+            "tradelocker"
+        ],
+        "answer_tokens": [
+            "tradelocker",
+            "accounts",
+            "centralized",
+            "learn",
+            "make",
+            "sure",
+            "trade",
+            "right",
+            "one"
+        ]
+    },
+    {
+        "question": "Are There Training Resources for TradeLocker?",
+        "answer": "Learn how to trade on TradeLocker, the sleekest and most advanced trading platform out there.",
+        "question_tokens": [
+            "training",
+            "resources",
+            "tradelocker"
+        ],
+        "answer_tokens": [
+            "learn",
+            "trade",
+            "tradelocker",
+            "sleekest",
+            "advanced",
+            "trading",
+            "platform"
+        ]
+    },
+    {
+        "question": "What Is TradeLocker?",
+        "answer": "TradeLocker is a community-driven trading platform that will enhance and simplify the way you trade.",
+        "question_tokens": [
+            "tradelocker"
+        ],
+        "answer_tokens": [
+            "tradelocker",
+            "community",
+            "driven",
+            "trading",
+            "platform",
+            "enhance",
+            "simplify",
+            "way",
+            "trade"
+        ]
+    },
+    {
+        "question": "What Is the FunderPro Loyalty Program?",
+        "answer": "With the FunderPro Loyalty Program you can collect FunderPro Tokens and claim rewards.",
+        "question_tokens": [
+            "funderpro",
+            "loyalty",
+            "program"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "loyalty",
+            "program",
+            "collect",
+            "funderpro",
+            "tokens",
+            "claim",
+            "rewards"
+        ]
+    },
+    {
+        "question": "How Does the FunderPro Loyalty Program Work?",
+        "answer": "With our Loyalty Program you are rewarded in FunderPro Tokens when you complete actions on FunderPro. Spend your Tokens to claim rewards.",
+        "question_tokens": [
+            "funderpro",
+            "loyalty",
+            "program",
+            "work"
+        ],
+        "answer_tokens": [
+            "loyalty",
+            "program",
+            "rewarded",
+            "funderpro",
+            "tokens",
+            "complete",
+            "actions",
+            "funderpro",
+            "spend",
+            "tokens",
+            "claim",
+            "rewards"
+        ]
+    },
+    {
+        "question": "How Do I Sign Up for the FunderPro Loyalty Program?",
+        "answer": "All FunderPro users are enrolled in Loyalty Program and start collecting Tokens automatically.",
+        "question_tokens": [
+            "sign",
+            "funderpro",
+            "loyalty",
+            "program"
+        ],
+        "answer_tokens": [
+            "funderpro",
+            "users",
+            "enrolled",
+            "loyalty",
+            "program",
+            "start",
+            "collecting",
+            "tokens",
+            "automatically"
+        ]
+    },
+    {
+        "question": "How Do I Redeem Rewards in the FunderPro Loyalty Marketplace?",
+        "answer": "Use the FunderPro Loyalty Widget in your Dashboard to spend your FunderPro Token and get prizes.",
+        "question_tokens": [
+            "redeem",
+            "rewards",
+            "funderpro",
+            "loyalty",
+            "marketplace"
+        ],
+        "answer_tokens": [
+            "use",
+            "funderpro",
+            "loyalty",
+            "widget",
+            "dashboard",
+            "spend",
+            "funderpro",
+            "token",
+            "get",
+            "prizes"
+        ]
+    },
+    {
+        "question": "How Do I Enter a FunderPro Loyalty Raffle?",
+        "answer": "Use the FunderPro Loyalty Widget in your FunderPro Dashboard to claim tickets and enter the raffle",
+        "question_tokens": [
+            "enter",
+            "funderpro",
+            "loyalty",
+            "raffle"
+        ],
+        "answer_tokens": [
+            "use",
+            "funderpro",
+            "loyalty",
+            "widget",
+            "funderpro",
+            "dashboard",
+            "claim",
+            "tickets",
+            "enter",
+            "raffle"
+        ]
+    },
+    {
+        "question": "How Do I Earn FunderPro Tokens?",
+        "answer": "To earn FunderPro Tokens you must complete specific actions in FunderPro. Find the list here.",
+        "question_tokens": [
+            "earn",
+            "funderpro",
+            "tokens"
+        ],
+        "answer_tokens": [
+            "earn",
+            "funderpro",
+            "tokens",
+            "must",
+            "complete",
+            "specific",
+            "actions",
+            "funderpro",
+            "find",
+            "list"
+        ]
+    }
+]
