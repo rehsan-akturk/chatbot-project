@@ -4,12 +4,11 @@
 This project makes a chatbot that answers customer questions using an FAQ list from FunderPro.com. It uses the OpenAI API, a vector database (FAISS), and the data from a provided funderpro-faqs files.
 
 ## Requirements
--Python 3.10 or higher
--OpenAI API Key
--Flask
--FAISS
--Required Python libraries (listed in requireme
-
+Python 3.10 or higher
+OpenAI API Key
+Flask
+FAISS
+Required Python libraries (listed in requirement.txt)
 
 ## Setup
 
